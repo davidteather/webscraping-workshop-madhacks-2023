@@ -37,3 +37,6 @@ Introduction to Static Site Web Scraping Workshop For MadHacks 2023
 
 
 Solutions will be posted after workshop (if I forget remind me)
+
+[FEEDBACK](https://forms.gle/qX7XW8gTyKhMFBjR6) 
+Please fill out the feedback form, so I can make better content in the future
