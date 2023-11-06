@@ -36,7 +36,7 @@ Introduction to Static Site Web Scraping Workshop For MadHacks 2023
     </details>
 
 
-Solutions will be posted after workshop (if I forget remind me)
+This workshop is also almost 1:1 with this Everything Web Scraping Video [with solutions](https://github.com/davidteather/everything-web-scraping/tree/main/003-beautiful-soup-with-static-site-and-server-side-rendered-web-scraping#solutions) so if you get stuck this is a great resource!
 
-[FEEDBACK](https://forms.gle/qX7XW8gTyKhMFBjR6) 
+[FEEDBACK](https://forms.gle/XK93SX4TUQo4BV5V8)
 Please fill out the feedback form, so I can make better content in the future
